@@ -21,3 +21,6 @@ using System.Diagnostics.CodeAnalysis;
 //MutexThread.GlobalMutexExampleWithMutex();
 //SemaphoreThread.SemaphoreExample();
 //AutoResetEventSignalThread.Example1();
+//ManualResetEventSignalThread.Example1();
+//ManualResetEventSignalThread.Assignment3TwoWaySignalingProducerConsumerScenario();
+//ManualResetEventSignalThread.Assignment3TwoWaySignalingProducerConsumerScenarioSolution();
