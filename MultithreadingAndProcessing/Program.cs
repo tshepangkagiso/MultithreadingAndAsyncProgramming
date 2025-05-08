@@ -1,4 +1,5 @@
-﻿using MultithreadingAndProcessing.section1;
+﻿using MultithreadingAndProcessing.section_3;
+using MultithreadingAndProcessing.section1;
 using MultithreadingAndProcessing.section2;
 using System.Diagnostics.CodeAnalysis;
 
@@ -24,3 +25,8 @@ using System.Diagnostics.CodeAnalysis;
 //ManualResetEventSignalThread.Example1();
 //ManualResetEventSignalThread.Assignment3TwoWaySignalingProducerConsumerScenario();
 //ManualResetEventSignalThread.Assignment3TwoWaySignalingProducerConsumerScenarioSolution();
+
+//Section 3
+//ThreadPoolExample.PrintMaxThreads();
+//ThreadPoolExample.PrintAvailableThreads();
+//ThreadPoolExample.UseWebServerAssignmentWithThreadPool();
