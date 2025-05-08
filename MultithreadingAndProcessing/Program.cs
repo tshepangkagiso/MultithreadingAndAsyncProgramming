@@ -30,3 +30,6 @@ using System.Diagnostics.CodeAnalysis;
 //ThreadPoolExample.PrintMaxThreads();
 //ThreadPoolExample.PrintAvailableThreads();
 //ThreadPoolExample.UseWebServerAssignmentWithThreadPool();
+//ExceptionHandlingInThreads.ExceptionThrownByThreadExample();
+//ExceptionHandlingInThreads.ExceptionThrownByThreadHandledWellExample();
+ExceptionHandlingInThreads.ExceptionThrownByMutlipleThreadCallStacksHandlingExample();
