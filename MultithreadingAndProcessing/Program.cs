@@ -1,4 +1,5 @@
 ﻿using MultithreadingAndProcessing.section_3;
+using MultithreadingAndProcessing.section_4;
 using MultithreadingAndProcessing.section1;
 using MultithreadingAndProcessing.section2;
 using System.Diagnostics.CodeAnalysis;
@@ -32,4 +33,14 @@ using System.Diagnostics.CodeAnalysis;
 //ThreadPoolExample.UseWebServerAssignmentWithThreadPool();
 //ExceptionHandlingInThreads.ExceptionThrownByThreadExample();
 //ExceptionHandlingInThreads.ExceptionThrownByThreadHandledWellExample();
-ExceptionHandlingInThreads.ExceptionThrownByMutlipleThreadCallStacksHandlingExample();
+//ExceptionHandlingInThreads.ExceptionThrownByMutlipleThreadCallStacksHandlingExample();
+
+
+//Section 4
+//TaskForAsyncProgramming.BasicSyntaxExample1();
+//TaskForAsyncProgramming.BasicSyntaxExample2();
+//TaskForAsyncProgramming.ReturningValueWithTask();
+//TaskForAsyncProgramming.Assignment4Async(); Console.ReadLine();
+
+
+
