@@ -2,6 +2,7 @@
 using MultithreadingAndProcessing.section_4;
 using MultithreadingAndProcessing.section_5;
 using MultithreadingAndProcessing.section_6;
+using MultithreadingAndProcessing.section_7;
 using MultithreadingAndProcessing.section1;
 using MultithreadingAndProcessing.section2;
 using System.Diagnostics.CodeAnalysis;
@@ -51,7 +52,15 @@ using System.Diagnostics.CodeAnalysis;
 
 //Section 6
 //ParallelLoopsForParallelism.example1(); Console.ReadLine();
-//ParallelLoopsForParallelism.DivideAndConquerUsingParallelLoop(); Console.ReadLine();
+//ParallelLoopsForParallelism.DivideAndConquerUsingParallelLoopNoThreadStorage(); Console.ReadLine();
+//ParallelLoopsForParallelism.DivideAndConquerUsingParallelLoopWithThreadStorage(); Console.ReadLine();
+
+//Section 7
+//ParallelLinksPLINQ.LINQExample();
+//ParallelLinksPLINQ.PLINQExample();
+
+
+
 
 
 
